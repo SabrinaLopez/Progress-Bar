@@ -1,0 +1,20 @@
+#casillero1 {
+    width: 2%;
+    height: 5px;
+    border-style: double;
+    border-color: black;
+    padding: 10px 10px 10px 10px;
+    display:inline-block;
+    background-color: green;
+    
+}
+
+button{
+    padding: 10px 10px 10px 10px;
+    margin-top: 2%;
+    border-style: groove;
+    border-color: rgb(17, 0, 255);
+    background-color: rgb(55, 55, 211);
+    object-position: center;
+}
+
